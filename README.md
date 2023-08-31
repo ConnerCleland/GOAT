@@ -1,3 +1,1 @@
-# goatPhone
-# Goat_project
-# GOAT
+# Goat
